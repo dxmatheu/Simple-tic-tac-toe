@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-kotlin.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Print_all_elements.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-The_index_of_the_first_max.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_lists-Two_numbers_in_a_row.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_longest_sequence.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-For_loop_and_ranges-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-Application.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Create_an_euphonious_word.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Determine_the_value.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-The_lucky_ticket.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-Floor-space_of_the_room.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-Harry_Potter.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-Just_checking.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-Shape.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-When_expression-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

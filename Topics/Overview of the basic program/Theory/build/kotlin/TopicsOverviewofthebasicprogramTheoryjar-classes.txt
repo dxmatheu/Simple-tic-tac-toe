@@ -1,0 +1,1 @@
+C:\ProgrammingLocal\LearningKotlin\HelloKotlin\Simple Tic-Tac-Toe\Topics\Overview of the basic program\Theory\build\classes\kotlin\main\MainKt.class
